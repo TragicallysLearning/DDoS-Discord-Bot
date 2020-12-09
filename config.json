@@ -1,0 +1,11 @@
+{
+	"RegularAPIurlExample": "http://[ip]/[path/to/api.php]?key=[key]&host={ip}&port={port}&time={time}&method={method}",
+	"RegularAPIurl": "INSERT URL",
+	"RegularMethodsListExample": "Method1\nMethod2\nMethod3\n",
+	"RegularMethodsList": "INSERT METHODS",
+	"PremiumAPIurlExample": "http://[ip]/[path/to/api.php]?key=[key]&host={ip}&port={port}&time={time}&method={method}",
+	"PremiumAPIurl": "INSERT URL",
+	"PremiumMethodsListExample": "Method1\nMethod2\nMethod3\n",
+	"PremiumMethodsList": "INSERT METHODS",
+	"token": "INSERT TOKEN"
+}
